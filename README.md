@@ -1,7 +1,7 @@
 ### Olá!! 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript, Css / Python
 - 📧 Email: gabrieldesa@live.com
 
 <div align="center">
