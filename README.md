@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando Javascript
+- 📧 Email: gabrieldesa@live.com
 
 <div align="center">
   <a href="https://github.com/gabrieldesa1">
@@ -24,8 +25,7 @@
     
   <a href="https://instagram.com/noxylol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/noxyzinnn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="discordapp.com/users/noxy#0430" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/noxylol1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/noxylol1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     
 <div/>
 
