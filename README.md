@@ -27,9 +27,6 @@
  <a href="https://discord.gg/noxy#0430" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://twitter.com/noxylol1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     
-          ![Snake animation](https://github.com/gabrieldesa1/gabrieldesa1/blob/output/github-contribution-grid-snake.svg)
-
-    
-  <div/>
+<div/>
 
     
