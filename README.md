@@ -1,16 +1,35 @@
-### Hi there 👋
+### Olá!! 👋
 
-<!--
-**gabrieldesa1/gabrieldesa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando Javascript
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/gabrieldesa1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldesa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldesa1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Noxy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Noxy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Noxy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Noxy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Noxy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="yato-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/b661c8c6852e4687b04969b62a093ac6/53cff0e29078bc81-a7/s540x810/f00459db57e790ee42f4f46f0a39ab1795887d38.gifv">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+  <div>
+    
+  <a href="https://instagram.com/noxylol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/noxyzinn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/noxy#0430" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://twitter.com/noxylol1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    
+          ![Snake animation](https://github.com/gabrieldesa1/gabrieldesa1/blob/output/github-contribution-grid-snake.svg)
+
+    
+  <div/>
+
+    
