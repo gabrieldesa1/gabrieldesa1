@@ -16,7 +16,7 @@
   <img align="center" alt="Noxy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noxy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Noxy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="yato-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/b661c8c6852e4687b04969b62a093ac6/53cff0e29078bc81-a7/s540x810/f00459db57e790ee42f4f46f0a39ab1795887d38.gifv">
+  <img align="right" alt="yato-pic" height="150" style="border-radius:50px;" src="https://soyums.tumblr.com/post/675105250695397376/yato-and-milord-the-kitty">
 </div>
 
 ##
