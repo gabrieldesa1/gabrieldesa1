@@ -1,7 +1,7 @@
 ### Olá!! 👋
 
 - 🔭 Front-End
-- 🌱 Estudando Python / React, NextJS / Tailwind
+- 🌱 Python / React, NextJS / Tailwind / Angular / mySQL
 - 📧 Email: gabrieldesa@live.com
 
 <div align="center">
