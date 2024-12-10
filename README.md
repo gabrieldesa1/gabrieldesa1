@@ -1,6 +1,6 @@
 ### Olá!! 👋
 
-- 🔭 Front-End
+- 🔭 Full Stack
 - 🌱 React, NextJS / Tailwind / Angular / SQL
 - 📧 Email: gabrieldesa@live.com
 
