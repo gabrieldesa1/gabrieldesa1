@@ -1,7 +1,7 @@
 ### Olá!! 👋
 
 - 🔭 Full Stack
-- 🌱 React, NextJS / Tailwind / Angular / SQL
+- 🌱 MySQL, PHP, Bootstrap, React, NextJS / Tailwind / Angular / SQL
 - 📧 Email: gabrieldesa@live.com
 
 <div align="center">
