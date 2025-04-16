@@ -3,6 +3,7 @@
 - 🔭 Full Stack
 - 🌱 MySQL, PHP, Bootstrap, React, NextJS / Tailwind / Angular / SQL
 - 📧 Email: gabrieldesa@live.com
+- 📧 Email: httpsgabrieldev@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrieldesa1">
