@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack
 - 🌱 PHP - Laravel | Javascript - React - Angular - NextJS| Python | SQL - MySQL | Bootstrap | Tailwind |  
-- 📧 Email: httpsgabrieldev@gmail.com
+- 📧 Email: devgabrieldesa@gmail.com
 - 📧 Email: gabrieldesa@live.com
 - 📧 Portfólio: https://gabrieldesa1.github.io/portfolio-gabriel/
 
